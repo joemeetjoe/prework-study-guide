@@ -1,4 +1,4 @@
-# prework-study-guide
+# Study Guide Webpage
 ## Boot camp pre work study guide for students
 
 ## Description
